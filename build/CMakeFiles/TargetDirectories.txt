@@ -1,0 +1,3 @@
+/Users/jafid/Desktop/CS2420/MOD 2/Inheritance_Lesson/build/CMakeFiles/MyExecutable.dir
+/Users/jafid/Desktop/CS2420/MOD 2/Inheritance_Lesson/build/CMakeFiles/edit_cache.dir
+/Users/jafid/Desktop/CS2420/MOD 2/Inheritance_Lesson/build/CMakeFiles/rebuild_cache.dir

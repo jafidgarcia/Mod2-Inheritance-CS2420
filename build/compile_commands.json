@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/jafid/Desktop/CS2420/MOD 2/Inheritance_Lesson/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.1 -o CMakeFiles/MyExecutable.dir/Users/jafid/Desktop/CS2420/MOD_2/Inheritance_Lesson/Inheritance.cpp.o -c \"/Users/jafid/Desktop/CS2420/MOD 2/Inheritance_Lesson/Inheritance.cpp\"",
+  "file": "/Users/jafid/Desktop/CS2420/MOD 2/Inheritance_Lesson/Inheritance.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/Users/jafid/Desktop/CS2420/MOD_2/Inheritance_Lesson/Inheritance.cpp.o"
+}
+]
